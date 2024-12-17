@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aya Hassan</h1>
-<h3 align="center">Interested in Web Development (Flutter)</h3>
+<h3 align="center">Interested in Web Development (Frontend using react js)</h3>
 
 - 🌱 I’m currently learning **Frontend Development **
 

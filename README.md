@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aya Hassan</h1>
-<h3 align="center">Interested in Mobile Development (Flutter)</h3>
+<h3 align="center">Interested in Web Development (Flutter)</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Frontend Development **
 
 - 📫 How to reach me **haya98166@gmail.com**
 

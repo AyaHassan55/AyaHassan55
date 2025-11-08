@@ -6,7 +6,8 @@
 
 
 	
-## <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 6.5%> About me
+## <img src="https://i.pinimg.com/originals/0f/48/ea/0f48ea92b68bfe8a6e62c6606e6e3b9c.gif" width="6.5%"> About me
+
 
 
 

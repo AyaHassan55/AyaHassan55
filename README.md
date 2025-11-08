@@ -6,8 +6,7 @@
 
 
 	
-[## <img src="https://i.pinimg.com/originals/0f/48/ea/0f48ea92b68bfe8a6e62c6606e6e3b9c.gif" width="6.5%"> About me](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY0bnJhN2Y5NDcxcWE3ejk0OXVibHd3bHZhMWYzOXljNWJ2YzZsOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cFkiFMDg3iFoI/giphy.gif
-)
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY0bnJhN2Y5NDcxcWE3ejk0OXVibHd3bHZhMWYzOXljNWJ2YzZsOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cFkiFMDg3iFoI/giphy.gif" width="6.5%"> About me
 
 
 

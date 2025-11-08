@@ -6,7 +6,7 @@
 
 
 	
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjY0bnJhN2Y5NDcxcWE3ejk0OXVibHd3bHZhMWYzOXljNWJ2YzZsOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cFkiFMDg3iFoI/giphy.gif" width="6.5%"> About me
+## <img src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr" width="6.5%"> About me
 
 
 

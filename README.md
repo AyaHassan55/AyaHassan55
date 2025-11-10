@@ -1,6 +1,9 @@
-<h1 align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F82E0&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Aya+Hassan;Frontend+Developer;React.js+%7C+Next.js" alt="Typing SVG" />
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Aya%20Hassan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
+<h3 align="center">Frontend Developer | React.js | Next.js</h3>
+
 
 
 <h3 align="center">

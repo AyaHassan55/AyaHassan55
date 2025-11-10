@@ -1,6 +1,7 @@
 <h1 align="center">  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=2D89EF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Aya+Hassan;Frontend+Developer;React.js+%7C+Next.js" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3F82E0&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Aya+Hassan;Frontend+Developer;React.js+%7C+Next.js" alt="Typing SVG" />
 </h1>
+
 
 <h3 align="center">
   Passionate about building clean UI & real-world web apps.

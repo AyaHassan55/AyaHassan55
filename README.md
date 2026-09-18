@@ -3,6 +3,9 @@
 </p>
 
 <h3 align="center">Frontend Developer | React.js | Next.js</h3>
+<h3 align="center">
+  Aspiring Web3.
+</h3>
 
 
 

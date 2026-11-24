@@ -3,9 +3,7 @@
 </p>
 
 <h3 align="center">Frontend Developer | React.js | Next.js</h3>
-<h3 align="center">
-  Aspiring Web3.
-</h3>
+
 
 
 
@@ -30,10 +28,10 @@
 <br><br>
 - 👨‍💻 I'm Frontend Engineer
 - :school: I `graduated` from the [Higher Technological Institute]at HTI(https://www.hti.edu.eg/).
-- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`,'Hackerrank'
+- :computer: I am a competitive programmer at `Codeforces`, `Leetcode`,`Hackerrank`
 - ✍🏻 I love Learning frontend
 - 🤓 Always learning new things
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/drive/my-drive?q=type:pdf%20parent:0AKJq2QYiw8RWUk9PVA).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1I5OmLzkf5PLNaFSEU7_mIIqEKeFVAzY7/view?usp=drivesdk).
 <br>
 
 
